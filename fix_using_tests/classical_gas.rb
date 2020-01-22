@@ -18,7 +18,7 @@ class GasStation
   def brand (brand)
     @brand = brand
   end
-  
+
 end
 
 petrol_petes = GasStation.new("Petrol Pete's", 50)
