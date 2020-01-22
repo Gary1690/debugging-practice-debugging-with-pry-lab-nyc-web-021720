@@ -15,7 +15,7 @@ class GasStation
     @unleaded_price = unleaded_price
   end
 
-  def brand (brand)
+  def brand=(brand)
     @brand = brand
   end
 
